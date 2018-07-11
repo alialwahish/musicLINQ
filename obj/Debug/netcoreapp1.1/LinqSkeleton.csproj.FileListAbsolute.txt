@@ -1,0 +1,11 @@
+/home/ali/codingDojo/c#/music-linq/bin/Debug/netcoreapp1.1/LinqSkeleton.deps.json
+/home/ali/codingDojo/c#/music-linq/bin/Debug/netcoreapp1.1/LinqSkeleton.runtimeconfig.json
+/home/ali/codingDojo/c#/music-linq/bin/Debug/netcoreapp1.1/LinqSkeleton.runtimeconfig.dev.json
+/home/ali/codingDojo/c#/music-linq/bin/Debug/netcoreapp1.1/LinqSkeleton.dll
+/home/ali/codingDojo/c#/music-linq/bin/Debug/netcoreapp1.1/LinqSkeleton.pdb
+/home/ali/codingDojo/c#/music-linq/obj/Debug/netcoreapp1.1/LinqSkeleton.csprojResolveAssemblyReference.cache
+/home/ali/codingDojo/c#/music-linq/obj/Debug/netcoreapp1.1/LinqSkeleton.csproj.CoreCompileInputs.cache
+/home/ali/codingDojo/c#/music-linq/obj/Debug/netcoreapp1.1/LinqSkeleton.AssemblyInfoInputs.cache
+/home/ali/codingDojo/c#/music-linq/obj/Debug/netcoreapp1.1/LinqSkeleton.AssemblyInfo.cs
+/home/ali/codingDojo/c#/music-linq/obj/Debug/netcoreapp1.1/LinqSkeleton.dll
+/home/ali/codingDojo/c#/music-linq/obj/Debug/netcoreapp1.1/LinqSkeleton.pdb
